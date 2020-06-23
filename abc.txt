@@ -1,3 +1,7 @@
 hello
 how are you
+<<<<<<< HEAD
 xyz
+=======
+third change
+>>>>>>> 678e46a10b3ee54c4a649e29137685a7ff9615a4
